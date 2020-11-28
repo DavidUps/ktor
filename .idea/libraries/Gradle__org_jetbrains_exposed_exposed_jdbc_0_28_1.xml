@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.exposed:exposed-jdbc:0.28.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.exposed/exposed-jdbc/0.28.1/27e5523c6a4522951859814dab3cb712dc5f3157/exposed-jdbc-0.28.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.exposed/exposed-jdbc/0.28.1/b446d5848b1d6cf0169051f481973901ec0fac43/exposed-jdbc-0.28.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
