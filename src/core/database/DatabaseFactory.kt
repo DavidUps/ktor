@@ -15,8 +15,8 @@ object DatabaseFactory {
         transaction {
             create(Users)
             Users.insert { users ->
-                users[name] = "Francisco"
-                users[surname] = "Franco"
+                users[name] = "David"
+                users[surname] = "Arribas"
             }
         }
     }
